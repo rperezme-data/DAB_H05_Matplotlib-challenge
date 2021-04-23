@@ -30,5 +30,5 @@ This script takes advantage of Jupyter Notebook features to showcase the descrip
    + Compute Linear Regression.
    + Scatter Plot displaying trendline (from linear regression equation).
 
-### Note
+#### Note:
 The `main.ipynb` Jupyter Notebook is not correctly displayed in the GitHub interface. It is strongly suggested to download the file and run it natively.
