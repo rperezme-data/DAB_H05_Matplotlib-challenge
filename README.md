@@ -17,18 +17,18 @@ This script takes advantage of Jupyter Notebook features to showcase the descrip
    + Generate a clear and concise working dataset.
 4. Summarize statistics (central tendency, spread indicators and standard error to the mean).
 5. Generate bar and pie plots to visualize pharmaceutical study components (measurements per drug regimen & mice gender distribution).
-6. Analize final measurements performance (in-house developed treatment vs benchmark treatments):
+6. Analize final measurements performance (in-house developed treatment vs treatment benchmarks):
    + Generate performance-based dataset
    + Compute quartiles, interquartile range and outlier boundaries.
    + Potential outliers detection.
    + Summarize performance distribution.
    + Box plot comparison.
 7. Analize performance development (in-house developed treatment):
-   + Line plot to display tumor volume variation across time (for sample mouse).
-8. Find possible relationship between variables (mouse weight -> average tumor volume):
+   + Line plot to showcase tumor volume variation across time (for sample mouse).
+8. Look for possible relationship between variables (average tumor volume vs mouse weight):
    + Compute Pearson Correlation Coefficent.
    + Compute Linear Regression.
-   + Scatter Plot.
+   + Scatter Plot displaying trendline (from linear regression equation).
 
 ### Note
 The `main.ipynb` Jupyter Notebook is not correctly displayed in the GitHub interface. It is strongly suggested to download the file and run it natively.
